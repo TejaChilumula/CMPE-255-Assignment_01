@@ -45,7 +45,6 @@ This assignment is divided into two key parts:
    - Design an innovative website with just a single prompt as your foundation. With GitHub Copilot AI by your side, let your creativity reign supreme!
    
 ### 3. **Submission**📤:
-   - Showcase your website (Platforms like GitHub Pages, Netlify, or Vercel can come in handy).
    - Here's the video link: https://clipchamp.com/watch/5mlKHvhuwiT.
 
 ---
