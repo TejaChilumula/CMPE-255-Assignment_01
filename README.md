@@ -46,7 +46,7 @@ This assignment is divided into two key parts:
    
 ### 3. **Submission**📤:
    - Showcase your website (Platforms like GitHub Pages, Netlify, or Vercel can come in handy).
-   - Submit the active link to your creation.
+   - Here's the video link: https://clipchamp.com/watch/5mlKHvhuwiT.
 
 ---
 
