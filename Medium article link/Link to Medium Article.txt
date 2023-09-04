@@ -1,0 +1,8 @@
+Here is the prompt used to get the complete Data Science project.
+
+- I want you to act as a senior data scientist with tons of experience in building ml models and expert in CRISP-DM methodology for data science. Given data set for body fat prediction, you should perform the EDA for data analysis. The response should be beginner friendly and descriptive. Please use some of the best ml models and perform all the steps of data science and you need to produce the response in steps , at each step you need to stop , I will enter "Never Say Never" then you can continue to next step. The responses for each step should be descriptive and visual beast. Use as many graphs as you can to show the data and compare between different models and give me the conclusion with the best model possible.
+
+
+Link to the medium article is
+
+https://medium.com/@teja.btc07/data-science-made-super-easy-with-chatgpt-plus-83745cf4fb9b
