@@ -1,0 +1,3 @@
+[console_scripts]
+ge = gpt_engineer.main:app
+gpt-engineer = gpt_engineer.main:app

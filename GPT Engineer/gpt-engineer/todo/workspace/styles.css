@@ -1,0 +1,14 @@
+/* Add your amazing CSS styles here */
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4em;
+  margin: 0;
+  align-items: center;
+  justify-content: center;    
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}

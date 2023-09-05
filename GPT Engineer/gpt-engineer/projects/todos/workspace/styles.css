@@ -1,0 +1,57 @@
+/* Add your CSS styles here */
+.main{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: black;
+}
+body{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+#task-list
+{
+    background-color: black;
+    color: white;
+    border: 1px solid greenyellow;
+    width: 110%;
+    height: 50%;
+    overflow: auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+#task-form
+{
+    background-color: black;
+    color: white;
+    width: 110%;
+    height: 50%;
+    overflow: auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+#sub
+{
+    background-color: greenyellow;
+    color: white;
+    border: 1px solid greenyellow;
+    width: 100%;
+    height: 50%;
+    overflow: auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+#text
+{
+    align-items: center;
+    justify-content: center;
+    width: 97%;
+    height: 90%;
+}
